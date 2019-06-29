@@ -1,0 +1,6 @@
+displayName = Monster Alertness
+author = hamstar
+version = 0.1
+buildIgnore = *.csproj, *.user, *.bat, obj\*, bin\*, .vs\*, .git\*
+languageVersion = 6
+homepage = https://forums.terraria.org/index.php?threads/psycho.61219/
