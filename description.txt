@@ -1,1 +1,1 @@
-Monster Alertness is a pretty cool mod, it does...this. Modify this file with a description of your mod.
+All hostile, non-boss, non-terrain ignoring monsters now require line of sight with a player to become aggressive. Players and monsters must also both be illuminated for such monsters to turn aggressive.
