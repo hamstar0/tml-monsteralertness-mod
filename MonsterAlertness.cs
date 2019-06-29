@@ -82,6 +82,7 @@ namespace MonsterAlertness {
 		public override void SetDefaults( NPC npc ) {
 			if( npc.friendly ) { return; }
 			if( npc.noTileCollide ) { return; }
+			if( npc.boss ) { return; }
 
 			this.OldAiStyle = npc.aiStyle;
 			npc.aiStyle = 0;
